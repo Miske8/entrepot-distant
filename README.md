@@ -1,2 +1,3 @@
 # entrepot-distant
-exercice_1
+
+Ajout d'information
